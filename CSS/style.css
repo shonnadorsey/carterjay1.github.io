@@ -29,6 +29,10 @@ button {
   background: #800000;
   color: #ffffff;
 }
+#button-2 {
+  height: 80px;
+  width: 20px;
+}
 footer {
   background:#80000;
   color:#800000;
