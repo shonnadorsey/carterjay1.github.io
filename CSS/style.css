@@ -30,7 +30,8 @@ button {
   color: #ffffff;
 }
 #button-2 {
-  button:hover
+}
+  button:hover {
   background:black;
 }
 footer {
