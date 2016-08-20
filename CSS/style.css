@@ -4,7 +4,7 @@
   border-radius: 100px;
 }
 header {
-  background:blue;
+  background:#800000;
   color:white;
   text-align: center;
   padding: 10px;
@@ -23,7 +23,7 @@ section {
   padding:15px;
 }
 footer {
-  background:blue;
+  background:#80000;
   color:white;
   clear:both;
   text-align:center;
