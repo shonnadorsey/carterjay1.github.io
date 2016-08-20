@@ -4,7 +4,7 @@
   border-radius: 100px;
 }
 header {
-  background:maroon;
+  background:#800000;
   color:white;
   text-align: center;
   padding: 10px;
@@ -35,7 +35,7 @@ button {
   background:black;
 }
 footer {
-  background:maroon;
+  background:#800000;
   color:white;
   clear:both;
   text-align:center;
