@@ -30,8 +30,8 @@ button {
   color: #ffffff;
 }
 #button-2 {
-  height: 80px;
-  width: 20px;
+  button:hover
+  background:black;
 }
 footer {
   background:#80000;
