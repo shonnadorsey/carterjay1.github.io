@@ -25,9 +25,10 @@ section {
 button {
   height: 30px;
   width: 60px;
-  border-radius: 5px;
+  border-radius: 0px;
   background: #800000;
   color: #ffffff;
+}
 footer {
   background:#80000;
   color:#ffffff;
