@@ -42,9 +42,9 @@ footer {
   padding:5px;
 }
 a {
-  color:#00ff00;
+  color:#800000;
   text-decoration:none;
 }
 a:hover {
-  color:#ff00ff;
+  color:black;
 }
