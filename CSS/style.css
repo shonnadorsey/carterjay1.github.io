@@ -49,3 +49,11 @@ a:hover {
   background:#800000;
   color:white;
 }
+img {
+  height:200px;
+  width:200px;
+  display:none;
+}
+h1 {
+  display:none;
+}
