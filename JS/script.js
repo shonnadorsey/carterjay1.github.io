@@ -8,5 +8,5 @@ $(document).ready(function(){
   	$(this).css(“background-color”, “black”);
   });
   $('#fancy-text').click(function(){
-    $(this).css{("font-style", "italic", "color":"purple", "font-size":"30px")};
+    $(this).css({"font-style", "italic", "color":"purple", "font-size":"30px"});
  });
