@@ -1,5 +1,5 @@
 .rounded img {
-  hegiht: 200px;
+  height: 200px;
   width: 200px;
   border-radius: 100px;
 }
@@ -11,11 +11,10 @@ header {
 }
 nav {
   line-height: 50px;
-  backgrgound: #800000;
+  background: #800000;
   height:600px;
   width:120px;
   float:left;
-  padding5px;
 }
 section {
   width:330px;
@@ -28,7 +27,6 @@ button {
   border-radius: 0px;
   background: #800000;
   color: #ffffff;
-  button:hover
   background:black;
 }
 footer {
