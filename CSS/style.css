@@ -28,7 +28,7 @@ button {
   border-radius: 0px;
   background: #800000;
   color: #ffffff;
-  button:hover {
+  button:hover
   background:black;
 }
 footer {
