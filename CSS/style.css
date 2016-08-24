@@ -37,12 +37,12 @@ footer {
   padding:5px;
 }
 a {
-  color:#800000;
+  color:white;
   text-decoration:none;
 }
 a:hover {
-  background:#800000;
-  color:white;
+  background:white;
+  color:#800000;
 }
 img {
   height:200px;
