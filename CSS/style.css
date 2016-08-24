@@ -28,9 +28,6 @@ button {
   border-radius: 0px;
   background: #800000;
   color: #ffffff;
-}
-#button-2 {
-}
   button:hover {
   background:black;
 }
